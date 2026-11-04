@@ -27,8 +27,8 @@
 - `tracert google.com`: Shows the path (hops) a message takes to reach the server.
 
 ## My Results
-- Ping response time: ___ ms
-- IP address of google.com: ___
+- Ping response time: 36 ms
+- IP address of google.com: 142.251.43.78
 
 ## Key Takeaway
 The internet is a constant exchange of requests and responses between clients and servers.
