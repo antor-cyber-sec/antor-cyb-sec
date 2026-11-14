@@ -58,4 +58,4 @@ More folders (labs, scripts, write-ups) will be added when I start using them.
 I only practice on systems I own or have explicit permission to test: my own computer, labs, CTF platforms (such as PortSwigger Web Security Academy, TryHackMe, HackTheBox) and officially authorized bug bounty programs. I never test real targets without permission.
 
 ## Connect
-- LinkedIn: [Abdur Rahaman Antor](https://www.linkedin.com/in/abdur-rahaman-antor)S
+- LinkedIn: [Abdur Rahaman Antor](https://www.linkedin.com/in/abdur-rahaman-antor)
