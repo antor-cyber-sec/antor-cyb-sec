@@ -8,8 +8,8 @@ I am learning cybersecurity from zero, studying 2 hours every day. My long-term 
 I write every lesson in my own words and practice it hands-on. All practice is done legally and ethically: on my own computer, in labs, in CTFs, and in authorized bug bounty programs only.
 
 ## Current status
-- **Phase 0: Foundation**, currently finishing the Networking basics.
-- **Days completed:** 9
+- **Phase 0: Foundation**, Networking basics completed. Starting Linux next.
+- **Days completed:** 10
 - **Study time:** about 2 hours per day
 
 ## Progress log
@@ -25,6 +25,7 @@ I write every lesson in my own words and practice it hands-on. All practice is d
 | 7 | LAN, WAN, router, switch, default gateway | [day-07](notes/day-07.md) |
 | 8 | HTTPS, TLS and certificates | [day-08](notes/day-08.md) |
 | 9 | Mini project: what happens when I type github.com | [project](projects/how-a-website-loads.md) |
+| 10 | Networking wrap-up and cheat sheet | [day-10](notes/day-10.md) |
 
 ## Featured project
 **[What Happens When I Type github.com in My Browser?](projects/how-a-website-loads.md)**: a step-by-step walkthrough of DNS, routing, TCP, TLS and HTTP, verified with real commands on my own computer.
